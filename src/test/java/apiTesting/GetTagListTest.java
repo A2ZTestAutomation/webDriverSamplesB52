@@ -16,6 +16,7 @@ public class GetTagListTest {
       Response response = RestAssured.get("/api/tags");
       int statusCode = response.getStatusCode();
       Assert.assertEquals(statusCode, 200);
+      System.out.println(response.statusLine());
       Assert.assertEquals(response.getContentType(),
               "application/json; charset=utf-8");
       // Retrieve the body of the Response
