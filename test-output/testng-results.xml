@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-02T09:59:46 IST" name="Default suite" finished-at="2026-03-02T09:59:49 IST" duration-ms="3215">
+  <suite started-at="2026-03-05T10:21:26 IST" name="Default suite" finished-at="2026-03-05T10:21:31 IST" duration-ms="5266">
     <groups>
     </groups>
-    <test started-at="2026-03-02T09:59:46 IST" name="Default test" finished-at="2026-03-02T09:59:49 IST" duration-ms="3215">
-      <class name="apiTesting.GetTagListTest">
-        <test-method signature="getPetList()[pri:0, instance:apiTesting.GetTagListTest@385c9627]" started-at="2026-03-02T09:59:46 IST" name="getPetList" finished-at="2026-03-02T09:59:49 IST" duration-ms="3168" status="PASS">
+    <test started-at="2026-03-05T10:21:26 IST" name="Default test" finished-at="2026-03-05T10:21:31 IST" duration-ms="5266">
+      <class name="testScripts.AutoCompleteTest">
+        <test-method signature="autoCompleteTest()[pri:0, instance:testScripts.AutoCompleteTest@217ed35e]" started-at="2026-03-05T10:21:26 IST" name="autoCompleteTest" finished-at="2026-03-05T10:21:31 IST" duration-ms="5212" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getPetList -->
-      </class> <!-- apiTesting.GetTagListTest -->
+        </test-method> <!-- autoCompleteTest -->
+      </class> <!-- testScripts.AutoCompleteTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
