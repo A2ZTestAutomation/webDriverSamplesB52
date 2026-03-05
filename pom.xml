@@ -89,10 +89,11 @@
 		</dependency>
 		<!-- Source:
 		https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin -->
+		<!-- Source: https://mvnrepository.com/artifact/org.projectlombok/lombok -->
 		<dependency>
-			<groupId>org.apache.maven.plugins</groupId>
-			<artifactId>maven-compiler-plugin</artifactId>
-			<version>3.15.0</version>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.42</version>
 			<scope>compile</scope>
 		</dependency>
 	</dependencies>
