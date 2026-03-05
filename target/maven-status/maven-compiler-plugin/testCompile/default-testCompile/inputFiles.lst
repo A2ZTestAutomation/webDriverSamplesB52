@@ -1,3 +1,10 @@
+F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\apiTesting\CreateUpdateBookingTest.java
+F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\apiTesting\FetchBookingTest.java
+F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\apiTesting\GetTagListTest.java
+F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\commonUtils\Utility.java
+F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\parallelScripts\SampleOneTest.java
+F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\parallelScripts\SampleThreeTest.java
+F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\parallelScripts\SampleTwoTest.java
 F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\testScripts\AlertTest.java
 F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\testScripts\AutoCompleteTest.java
 F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\testScripts\ChkBoxRadioDropTest.java
@@ -7,5 +14,8 @@ F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\ja
 F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\testScripts\FirstSampleTest.java
 F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\testScripts\IFrameTest.java
 F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\testScripts\JSExecTest.java
+F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\testScripts\LoginTest.java
 F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\testScripts\MouseActionsTest.java
+F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\testScripts\MyRetry.java
+F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\testScripts\RemoteWebDriverTest.java
 F:\Anandhi\workspace\seleniumWorkspace\cms2023WS\webDriverSamplesB52\src\test\java\testScripts\WebTableTest.java
